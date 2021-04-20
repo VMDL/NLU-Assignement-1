@@ -1,0 +1,4 @@
+I saw the man with a telescope.
+The SMITH model outperforms the BERT architecture.
+The ELECTRA architecture uses Transformer and Generative Adversarial Network.
+Jim gave her the book.
