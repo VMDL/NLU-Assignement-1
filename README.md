@@ -1,6 +1,6 @@
 # NLU-Assignement-1
 
-The source code is entirely written in Python and it has been enterly written and tested in the Google Colaboratory.
+The source code is entirely written in Python and it has been enterly written and tested on Google Colaboratory.
 
 ## Requirements
 
