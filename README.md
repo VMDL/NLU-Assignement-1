@@ -17,3 +17,7 @@ Every function has a test associated, moreover they have already been initialize
 ## Go into detail
 
 Further explanation about the logic behind the source code can be find in [Report.pdf](https://github.com/VMDL/NLU-Assignement-1/blob/main/Report.pdf)
+
+# Note
+
+Because of an errata corrige in the second Table of the performance in the Report file, I re-uploaded it
