@@ -20,4 +20,4 @@ Further explanation about the logic behind the source code can be find in [Repor
 
 # Note
 
-Because of an errata corrige in the second Table of the performance in the Report file, I re-uploaded it
+Because of an errata corrige in the second Table about performances, classifiers and features in the Report file, I re-uploaded it
